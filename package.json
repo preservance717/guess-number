@@ -1,0 +1,7 @@
+{
+  "name": "guess-number",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  }
+}
